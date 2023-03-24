@@ -1,5 +1,5 @@
-# nisarga.me
-This is my personal portfolio site, which can be found at [nisarga.me](https://nisarga.me). This has been built with the [Vercel NextJS Portfolio Starter Kit](https://github.com/vercel/nextjs-portfolio-starter)
+# Prathmesh
+This is my personal portfolio site, which can be found at [hrxprathmesh.me](https://hrxprathmesh.netlify.app). This has been built with the [Vercel NextJS Portfolio Starter Kit](https://github.com/vercel/nextjs-portfolio-starter)
 
 ## Deploy your own
 
