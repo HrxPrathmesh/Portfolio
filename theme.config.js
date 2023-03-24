@@ -3,7 +3,7 @@ const YEAR = new Date().getFullYear()
 export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{YEAR}</time> © Prathmesh.
+      <time>{YEAR}</time> © Hrx Prathmesh.
      <a href="https://github.com/hrxprathmesh/">Source Code</a>
       <style jsx>{`
         a {
