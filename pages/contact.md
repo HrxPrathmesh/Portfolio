@@ -5,6 +5,6 @@ date: 2023-03-05
 ---
 
 # Contact
-![](/images/anime-boy.gif)
+![](/images/Prathmesh.jpg)
 
-You can always reach out to me through my 📧 e-mail [hello@nisarga.me](mailto:hello@nisarga.me). You can also DM me on [Twitter](https://twitter.com/ni5arga) or [Linkedin](https://linkedin.com/in/ni5arga). Please note that I might be slow to reply.
+You can always reach out to me through my 📧 e-mail [hrxprathmesh.me](mailto:hrxprathmesh@gmail.com). You can also DM me on [Twitter](https://twitter.com/hrxprathmesh) or [Linkedin](https://linkedin.com/in/hrxprathmesh). Please note that I might be slow to reply.

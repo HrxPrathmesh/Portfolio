@@ -60,6 +60,11 @@ img.next-image {
   color: #0074de;
 }
 
-.nav-line .nav-link {
-  color: #69778c;
+.nav-line {
+  color: #040506;
+}
+
+::selection{
+  color:black ;
+  background-color: aquamarine;
 }
